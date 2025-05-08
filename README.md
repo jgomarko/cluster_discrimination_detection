@@ -71,6 +71,22 @@ cmi = calculate_cmi(processed_data, clusters, sensitive_columns, outcome_column,
 
 The example uses the [Adult Income dataset](https://archive.ics.uci.edu/ml/datasets/adult) from the UCI Machine Learning Repository, which contains census data for predicting whether income exceeds $50K/year.
 
+## Citation
+
+If you use this code in your research, please cite:
+
+```bibtex
+@article{marko2025fairpath,
+  title={Uncovering Algorithmic Inequity: A Conditional Mutual Information Framework for Detecting and Mitigating Hidden Discrimination},
+  author={Marko, John Gabriel O. and Neagu, Ciprian Daniel and Anand, P.B},
+  journal={},
+  year={2025}
+}
+```
 ## License
 
-MIT License
+## Contributors
+
+- John Gabriel O. Marko - University of Bradford
+- Ciprian Daniel Neagu - University of Bradford
+- P.B Anand - University of Bradford
