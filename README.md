@@ -128,8 +128,8 @@ If you use this code in your research, please cite:
 @article{marko2025fairpath,
   title={Uncovering Algorithmic Inequity: A Conditional Mutual Information Framework for Detecting and Mitigating Hidden Discrimination},
   author={Marko, John Gabriel O. and Neagu, Ciprian Daniel and Anand, P.B},
-  journal={},
-  year={2025}
+  journal={AI and Ethics},
+  year={2026}
 }
 ```
 
